@@ -10,11 +10,12 @@ Analyze Amazon’s sales data across three Myanmar branches (Yangon, Mandalay, a
 - **Feature Engineering:** Added `timeofday`, `dayname`, `monthname` fields to enrich analysis.
 - **Exploratory Data Analysis:** Answered 28+ business questions across product, sales, and customer categories.
 - **Key Insights:**
-  - Top Product Line: Health and Beauty
+  - Top Product Line: Food and Beverages
   - Highest Revenue City: Naypyitaw
   - Peak Sales Time: Afternoon
   - Top Customer Type: Members
   - Best Rating Day: Friday
+  - Highest Revenue Month: January
 - **Recommendations:** Strategic promotions, inventory boosts, targeted marketing, and feedback drives.
 
 ## 🛠 Tools & Technologies
